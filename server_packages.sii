@@ -1,0 +1,429 @@
+SiiNunit
+{
+server_packages_info : _nameless.1d4.3330.5d10 {
+ version: 1
+ dlc_essential_list: 0
+ dlc_non_essential_list: 7
+ dlc_non_essential_list[0]: 2583912098162477
+ dlc_non_essential_list[1]: 92094914797
+ dlc_non_essential_list[2]: 92649725589
+ dlc_non_essential_list[3]: 59316381
+ dlc_non_essential_list[4]: 50085130457797
+ dlc_non_essential_list[5]: 63651269
+ dlc_non_essential_list[6]: 2152080662829
+ mod_list: 37
+ mod_list[0]: _nameless.1d5.4380.41d0
+ mod_list[1]: _nameless.1d5.4380.43b0
+ mod_list[2]: _nameless.1d5.4380.4350
+ mod_list[3]: _nameless.1d5.4380.5190
+ mod_list[4]: _nameless.1d5.4380.4530
+ mod_list[5]: _nameless.1d5.4380.5070
+ mod_list[6]: _nameless.1d5.4380.5010
+ mod_list[7]: _nameless.1d5.4380.4b30
+ mod_list[8]: _nameless.1d5.4380.5670
+ mod_list[9]: _nameless.1d5.4380.5310
+ mod_list[10]: _nameless.1d5.4380.4230
+ mod_list[11]: _nameless.1d5.4380.49b0
+ mod_list[12]: _nameless.1d5.4380.4bf0
+ mod_list[13]: _nameless.1d5.4380.4290
+ mod_list[14]: _nameless.1d5.4380.50d0
+ mod_list[15]: _nameless.1d5.4380.51f0
+ mod_list[16]: _nameless.1d5.4380.44d0
+ mod_list[17]: _nameless.1d5.4380.47d0
+ mod_list[18]: _nameless.1d5.4380.4a10
+ mod_list[19]: _nameless.1d5.4380.58b0
+ mod_list[20]: _nameless.1d5.4380.5850
+ mod_list[21]: _nameless.1d5.4380.5250
+ mod_list[22]: _nameless.1d5.4380.4170
+ mod_list[23]: _nameless.1d5.4380.5550
+ mod_list[24]: _nameless.1d5.4380.52b0
+ mod_list[25]: _nameless.1d5.4380.4590
+ mod_list[26]: _nameless.1d5.4380.4fb0
+ mod_list[27]: _nameless.1d5.4380.5490
+ mod_list[28]: _nameless.1d5.4380.54f0
+ mod_list[29]: _nameless.1d5.4380.4890
+ mod_list[30]: _nameless.1d5.4380.4650
+ mod_list[31]: _nameless.1d5.4380.5370
+ mod_list[32]: _nameless.1d5.4380.5910
+ mod_list[33]: _nameless.1d5.4380.4c50
+ mod_list[34]: _nameless.1d5.4380.4cb0
+ mod_list[35]: _nameless.1d5.4380.4d10
+ mod_list[36]: _nameless.1d5.4380.4950
+ map_name: "/map/europe.mbd"
+ map_dimensions: (-37888000, -43008000, 53248000, 27648000)
+ roads_data_file_name: "/home/server_packages.dat"
+ time_stamp: 1694254290
+ time_compression: 15.560001
+}
+
+server_mod_detail : _nameless.1d5.4380.41d0 {
+ package_name: "promods-tgs-assets-v102"
+ mod_name: "ProMods The Great Steppe"
+ checksum: 5599924179971551690
+ mod_id: 9547544234484076380
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.43b0 {
+ package_name: "promods-tgs-defmap-v102"
+ mod_name: "ProMods The Great Steppe"
+ checksum: 14742642381248529800
+ mod_id: 6296067195910999303
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4350 {
+ package_name: "promods-assets-v266"
+ mod_name: "ProMods Assets Package"
+ checksum: 7702880848971259460
+ mod_id: 1685029041490557338
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.5190 {
+ package_name: "promods-media-v266"
+ mod_name: "ProMods Media Package"
+ checksum: 11853125018440836418
+ mod_id: 13323513028065695806
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.4530 {
+ package_name: "promods-model3-v266"
+ mod_name: "ProMods Models Package 3"
+ checksum: 13918682700927248900
+ mod_id: 2318641436481544440
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.5070 {
+ package_name: "promods-model2-v266"
+ mod_name: "ProMods Models Package 2"
+ checksum: 8059260614342665860
+ mod_id: 7807382618431968247
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.5010 {
+ package_name: "promods-model1-v266"
+ mod_name: "ProMods Models Package 1"
+ checksum: 15716775467965494887
+ mod_id: 17261723188346199837
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.4b30 {
+ package_name: "promods-map-v266"
+ mod_name: "ProMods Map Package"
+ checksum: 9213958958958863456
+ mod_id: 1807285396922549519
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.5670 {
+ package_name: "promods-def-v266"
+ mod_name: "ProMods Definition Packa"
+ checksum: 5006173224850917458
+ mod_id: 11334302053151127420
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.5310 {
+ package_name: "promods-me-assets-v266"
+ mod_name: "ProMods Middle-East Add-"
+ checksum: 2483281258930344337
+ mod_id: 11309319678155549573
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4230 {
+ package_name: "promods-me-defmap-v266"
+ mod_name: "ProMods Middle-East Add-"
+ checksum: 18184142299610497547
+ mod_id: 4423058123808960497
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.49b0 {
+ package_name: "promods-dlcsupport-v266"
+ mod_name: "ProMods DLC Support Pack"
+ checksum: 15759590826863171066
+ mod_id: 12459085590522882652
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4bf0 {
+ package_name: "ETS2_RealisticTruckPhysics_v9.0.3"
+ mod_name: "Realistic Truck Physics "
+ checksum: 10813591957512184081
+ mod_id: 50554240617384128
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4290 {
+ package_name: "ETS2_Real_Gas_Station_v1.01"
+ mod_name: "ETS2 Real Gas Station v1"
+ checksum: 9673593308578240094
+ mod_id: 13445950629541818740
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.50d0 {
+ package_name: "Daniels Random Events Mod - V1.5.1"
+ mod_name: "Daniels Random Events Mo"
+ checksum: 304326933959605547
+ mod_id: 13011998913466132970
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.51f0 {
+ package_name: "real company logo"
+ mod_name: "Real company logo"
+ checksum: 11146026646837766271
+ mod_id: 9638055517660784563
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.44d0 {
+ package_name: "mod_workshop_package.0000000043D94C86"
+ mod_name: "Google Maps Navigation"
+ checksum: 1118105845445683703
+ mod_id: 1138314374
+ workshop_mod: true
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.47d0 {
+ package_name: "mod_workshop_package.00000000633549D8"
+ mod_name: "Realistic Signs"
+ checksum: 8056178726500474147
+ mod_id: 1664436696
+ workshop_mod: true
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.4a10 {
+ package_name: "mod_workshop_package.00000000366B41FA"
+ mod_name: "Real Fuel Prices"
+ checksum: 12524193833565267564
+ mod_id: 912998906
+ workshop_mod: true
+ optional_mod: true
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.58b0 {
+ package_name: "mod_workshop_package.000000009CE39299"
+ mod_name: "Street Lamps - With fog"
+ checksum: 13749848594215517698
+ mod_id: 2632159897
+ workshop_mod: true
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.5850 {
+ package_name: "_9_NBASE_JBX Graphics 3 v1.9 for ETS2 [1.48.x]"
+ mod_name: "9 [NBASE] JBX Graphics 3"
+ checksum: 8142244074550601195
+ mod_id: 4027456737125011167
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.5250 {
+ package_name: "_8_NSKYBOX 90 of 105 Skies_JBX Graphics 3 v1.9 [4K-8K]"
+ mod_name: "8 [NSKYBOX 90 of 105 Ski"
+ checksum: 6363811269275775189
+ mod_id: 11578262502945587200
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4170 {
+ package_name: "_6_NMPREFABS_JBX Graphics 3 v1.9 for ETS2 [1.48.x]"
+ mod_name: "6 [NMPREFABS] JBX Graphi"
+ checksum: 12947285253766682918
+ mod_id: 16804539071351611169
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.5550 {
+ package_name: "_5_NWEATHER_JBX Graphics 3 v1.9 for ETS2 [1.48.x]"
+ mod_name: "5 [NWEATHER] JBX Graphic"
+ checksum: 17177703144290112479
+ mod_id: 8230097406211360312
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.52b0 {
+ package_name: "_0_START_JBX Graphics 3 v1.9 for ATS-ETS2 [All Versions]"
+ mod_name: "0 [START] JBX Graphics 3"
+ checksum: 2413328534610693129
+ mod_id: 16847936278672102385
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4590 {
+ package_name: "_0_NSHALO_JBX Graphics 3 v1.9 for ETS2 [1.48.x]"
+ mod_name: "0 [NSHALO] JBX Graphics "
+ checksum: 10788644022091470005
+ mod_id: 1764492029896260861
+ workshop_mod: false
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4fb0 {
+ package_name: "mod_workshop_package.000000006C7F9FB7"
+ mod_name: "True Mirror FOV for ETS2"
+ checksum: 15558749173398547833
+ mod_id: 1820303287
+ workshop_mod: true
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.5490 {
+ package_name: no_trailer_marker
+ mod_name: "NO TRAILER MARKER"
+ checksum: 13946362244062632326
+ mod_id: 17000033661117166173
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.54f0 {
+ package_name: Scania_164L_TT
+ mod_name: "Scania 164L V8 Hansen"
+ checksum: 6524457386908230364
+ mod_id: 11391043356806508033
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.4890 {
+ package_name: Scania_164G_Hartmann
+ mod_name: "Scania 164G 580 4-series"
+ checksum: 18342761403606355666
+ mod_id: 6596332296496142706
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4650 {
+ package_name: "Scania S650 Zino"
+ mod_name: "Scania S650 Zino Moens T"
+ checksum: 12563067773130563577
+ mod_id: 3818675065720943956
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.5370 {
+ package_name: "Krone Convoy"
+ mod_name: "Krone Convoy Parts v.1"
+ checksum: 17755215408690423810
+ mod_id: 7233734973900960846
+ workshop_mod: false
+ optional_mod: false
+ full_name: true
+}
+
+server_mod_detail : _nameless.1d5.4380.5910 {
+ package_name: Schmitz_Hartmann
+ mod_name: "Schmitz Hartmann Transpo"
+ checksum: 9347764176273890736
+ mod_id: 17069689320163322300
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4c50 {
+ package_name: Zino_Trailer
+ mod_name: "Chereau Moens Transport "
+ checksum: 11925852148262914164
+ mod_id: 15968661513814366105
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4cb0 {
+ package_name: CameraViewfinder
+ mod_name: "No camera Viewfinder 1.4"
+ checksum: 13746038336844929266
+ mod_id: 6884544683047742401
+ workshop_mod: false
+ optional_mod: false
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4d10 {
+ package_name: "mod_workshop_package.00000000942BBD57"
+ mod_name: "ProMods High Quality Map"
+ checksum: 11694927203131467282
+ mod_id: 2485894487
+ workshop_mod: true
+ optional_mod: true
+ full_name: false
+}
+
+server_mod_detail : _nameless.1d5.4380.4950 {
+ package_name: "mod_workshop_package.00000000A101ED37"
+ mod_name: "Zoom Crash Fix"
+ checksum: 13467683272311332404
+ mod_id: 2701258039
+ workshop_mod: true
+ optional_mod: true
+ full_name: true
+}
+
+}
